@@ -1,0 +1,10 @@
+.optionButton {
+    width: 100%;
+    border-radius: 20px;
+    transition: background-color 0.3s ease; 
+}
+
+.optionButton:hover {
+    background-color: #0099FF; 
+}
+
